@@ -9,6 +9,12 @@
       <div class="card-header">
         <img src="img/profil3.jpg" alt="">
         <div class="menu">
+          <ul>
+            <li class="ion-social-facebook"></li>
+            <li class="ion-social-twitter"></li>
+            <li class="ion-social-instagram"></li>
+          </ul>
+            <span class="ion-android-more-vertical"></span>
         </div>
         <div class="name">
         </div>
