@@ -36,6 +36,10 @@
             <span class="num">157cm</span>
             <span class="word">Tinggi</span>
           </div>
+          <div class="item">
+            <span class="num">50kg</span>
+            <span class="word">Berat</span>
+          </div>
         </div>
       </div>
     </div>
