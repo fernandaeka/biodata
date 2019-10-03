@@ -32,6 +32,10 @@
             <span class="num">19yo</span>
             <span class="word">Umur</span>
           </div>
+          <div class="item">
+            <span class="num">157cm</span>
+            <span class="word">Tinggi</span>
+          </div>
         </div>
       </div>
     </div>
